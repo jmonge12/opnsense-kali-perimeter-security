@@ -19,40 +19,36 @@ Este proyecto documenta el diseño, la implementación y la validación de un en
 ### 🖥️ FASE 1: CONFIGURACIÓN E IMPLEMENTACIÓN
 
 #### [Evidencia 1: Topología de Red en VirtualBox]
-> *Espacio reservado para verificar los dos adaptadores de OPNsense (Puente y Solo Anfitrión).*
-[Por favor, subí la Captura 1 aquí]
 
+> ![Evidencia 1: Configuración de adaptadores de red en VirtualBox](url-de-la-imagen)
 ---
 
 #### [Evidencia 2: Consola de OPNsense]
-> *Espacio reservado para verificar la asignación correcta de las IPs en WAN y LAN desde la CLI.*
-[Por favor, subí la Captura 2 aquí]
 
+> ![Evidencia 2: Consola de OPNsense](url-de-la-imagen)
 ---
 
 #### [Evidencia 3: Dashboard Principal Web GUI]
-> *Espacio reservado para verificar el ingreso exitoso a la administración desde Kali Linux.*
-[Por favor, subí la Captura 3 aquí]
 
+> ![Evidencia 3: Dashboard Principal Web GUI](url-de-la-imagen)
 ---
 
 ### 🧪 FASE 2: PRUEBAS DE CONCEPTO Y POLÍTICAS
 
 #### [Evidencia 4: Prueba de Conectividad Exitosa (Paso A)]
-> *Espacio reservado para verificar el ping exitoso de Kali a internet tras añadir el gateway.*
-[Por favor, subí la Captura 4 aquí]
+
+> ![Evidencia 4: Prueba de Conectividad Exitosa](url-de-la-imagen)
 
 ---
 
 #### [Evidencia 5: Política de Seguridad / Regla de Bloqueo (Paso B)]
-> *Espacio reservado para verificar la regla conmutada a 'Block' en la interfaz LAN.*
-[Por favor, subí la Captura 5 aquí]
 
+> ![Evidencia 5: Política de Seguridad / Regla de Bloqueo](url-de-la-imagen)
 ---
 
 #### [Evidencia 6: Evidencia de Auditoría y Logs en Live View (Paso C)]
-> *Espacio reservado para verificar las trazas con la 'X' roja interceptando el tráfico de Kali.*
-[Por favor, subí la Captura 6 aquí]
+
+> ![Evidencia 6: Evidencia de Auditoría y Logs en Live View](url-de-la-imagen)
 
 
 ---

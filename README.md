@@ -20,7 +20,7 @@ Este proyecto documenta el diseño, la implementación y la validación de un en
 
 #### [Evidencia 1: Topología de Red en VirtualBox]
 
-> ![Evidencia 1: Configuración de adaptadores de red en VirtualBox](url-de-la-imagen)
+> ![Evidencia 1: Configuración de adaptadores de red en VirtualBox]()
 ---
 
 #### [Evidencia 2: Consola de OPNsense]

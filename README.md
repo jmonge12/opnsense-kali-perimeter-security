@@ -43,7 +43,7 @@ Este proyecto documenta el diseño, la implementación y la validación de un en
 
 #### [Evidencia 5: Política de Seguridad / Regla de Bloqueo (Paso B)]
 
-> ![Evidencia 5: Política de Seguridad / Regla de Bloqueo](url-de-la-imagen)
+> ![Evidencia 5: Política de Seguridad / Regla de Bloqueo](https://github.com/jmonge12/opnsense-kali-perimeter-security/blob/63379e75daec110a6dfdcf1d80fbea507093c467/Pol%C3%ADtica%20de%20Seguridad%20%20Regla%20de%20Bloqueo.png)
 ---
 
 #### [Evidencia 6: Evidencia de Auditoría y Logs en Live View (Paso C)]

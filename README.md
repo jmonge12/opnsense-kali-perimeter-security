@@ -25,7 +25,7 @@ Este proyecto documenta el diseño, la implementación y la validación de un en
 
 #### [Evidencia 2: Consola de OPNsense]
 
-> ![Evidencia 2: Consola de OPNsense]([url-de-la-imagen])
+> ![Evidencia 2: Consola de OPNsense](https://github.com/jmonge12/opnsense-kali-perimeter-security/blob/381acc9121fb849646d09d626ccc9aa961afc03a/consola%20de%20OPNSense.png)
 ---
 
 #### [Evidencia 3: Dashboard Principal Web GUI]

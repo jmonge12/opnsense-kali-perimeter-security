@@ -30,7 +30,7 @@ Este proyecto documenta el diseño, la implementación y la validación de un en
 
 #### [Evidencia 3: Dashboard Principal Web GUI]
 
-> ![Evidencia 3: Dashboard Principal Web GUI]([url-de-la-imagen](https://github.com/jmonge12/opnsense-kali-perimeter-security/blob/ec3103bd9588ae258e676e522be2aa0c208c28bb/Dashboard%20Principal%20Web%20GUI.png)
+> ![Evidencia 3: Dashboard Principal Web GUI](https://github.com/jmonge12/opnsense-kali-perimeter-security/blob/ec3103bd9588ae258e676e522be2aa0c208c28bb/Dashboard%20Principal%20Web%20GUI.png)
 ---
 
 ### 🧪 FASE 2: PRUEBAS DE CONCEPTO Y POLÍTICAS

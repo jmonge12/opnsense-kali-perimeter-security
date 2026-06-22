@@ -48,7 +48,7 @@ Este proyecto documenta el diseño, la implementación y la validación de un en
 
 #### [Evidencia 6: Evidencia de Auditoría y Logs en Live View (Paso C)]
 
-> ![Evidencia 6: Evidencia de Auditoría y Logs en Live View](url-de-la-imagen)
+> ![Evidencia 6: Evidencia de Auditoría y Logs en Live View](https://github.com/jmonge12/opnsense-kali-perimeter-security/blob/c29389ffef8de5d407c588e5b0cd2f0bf239d9b5/Evidencia%20de%20Auditor%C3%ADa%20y%20Logs%20en%20Live%20View.png)
 
 
 ---

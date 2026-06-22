@@ -53,3 +53,9 @@ Este proyecto documenta el diseño, la implementación y la validación de un en
 
 ---
 
+Para resumir el trabajo realizado en este laboratorio, las seis capturas de pantalla demuestran el proceso completo de principio a fin:
+
+Fase de Montaje (Evidencias 1 a 3): Primero se ve cómo se separaron las redes en VirtualBox (dejando a Kali aislado en una red interna y a OPNsense conectando esa red con el mundo exterior). Luego, se muestra la consola negra del firewall con las IPs listas y el acceso exitoso al panel web desde el navegador de Kali para terminar de configurar el sistema.
+
+Fase de Pruebas (Evidencias 4 a 6): Aquí se pasa a la acción. Primero se demuestra que el internet funcionaba bien en Kali (haciendo un ping exitoso a Google). Después, se ve el cambio drástico cuando activamos la regla de bloqueo (Block) en el firewall, y finalmente se muestra la prueba reina: la pantalla de logs en tiempo real llena de alertas rojas que confirman cómo el firewall detectó, frenó y rechazó el tráfico de Kali al instante.
+

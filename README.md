@@ -37,7 +37,7 @@ Este proyecto documenta el diseño, la implementación y la validación de un en
 
 #### [Evidencia 4: Prueba de Conectividad Exitosa (Paso A)]
 
-> ![Evidencia 4: Prueba de Conectividad Exitosa](url-de-la-imagen)
+> ![Evidencia 4: Prueba de Conectividad Exitosa](https://github.com/jmonge12/opnsense-kali-perimeter-security/blob/44ffc6f3217168623127c8f28797e009ae5b2ffc/Prueba%20de%20Conectividad%20Exitosa.png)
 
 ---
 

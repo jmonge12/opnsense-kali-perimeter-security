@@ -20,7 +20,7 @@ Este proyecto documenta el diseño, la implementación y la validación de un en
 
 #### [Evidencia 1: Topología de Red en VirtualBox]
 
-> ![Evidencia 1: Configuración de adaptadores de red en VirtualBox]()
+> ![Evidencia 1: Configuración de adaptadores de red en VirtualBox](https://github.com/jmonge12/opnsense-kali-perimeter-security/blob/082877509499cd76ce4b850a50b07967cf558085/Topologia%20de%20red.png)
 ---
 
 #### [Evidencia 2: Consola de OPNsense]
